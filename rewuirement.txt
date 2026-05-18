@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+scikit-learn
+# PyTorch for GPU (Default includes CUDA in many environments, but check PyTorch docs for specific CUDA versions if needed)
+torch
+torchvision
+torchaudio
+# TensorFlow (tensorflow package automatically supports GPU since 2.12+)
+tensorflow
